@@ -75,6 +75,3 @@ Steps:
 ```
 These are the colors 
 
-
-
-Thes
