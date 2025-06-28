@@ -1,4 +1,4 @@
-# emotion-iot-esp32-cnn
+# Emotion-iot-esp32-cnn
 CNN emotion detection with real-time LED indicator using ESP32
 
 # Emotion Detection with CNN & ESP32 LED Indicator 💡😄
