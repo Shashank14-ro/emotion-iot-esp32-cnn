@@ -38,3 +38,23 @@ emotion-iot-esp32-cnn/
 ├── README.md
 └── LICENSE
 ```
+🔌 ESP32 Setup
+Open esp32_code/emotion_led.ino in Arduino IDE
+
+Select correct board: ESP32 Dev Module
+
+Upload the code to your ESP32
+
+Connect RGB LED to the specified GPIO pins
+
+ESP32 listens over UART and changes LED color based on emotion received
+
+🎯 Emotion-to-LED Mapping
+Emotion	LED Color
+Happy	Green
+Sad	Blue
+Angry	Red
+Surprise	Yellow
+Neutral	White
+
+
