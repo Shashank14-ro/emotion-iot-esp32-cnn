@@ -1,0 +1,19 @@
+
+---
+
+## 🚀 Setup Instructions
+
+### 📌 Requirements
+- Python 3.7+
+- ESP32 microcontroller
+- RGB LED connected to GPIO pins
+- USB cable for serial communication
+
+---
+
+### 🧠 Python Setup
+
+1. Clone this repository:
+```bash
+git clone https://github.com/your-username/emotion-iot-esp32-cnn.git
+cd emotion-iot-esp32-cnn/python_code
