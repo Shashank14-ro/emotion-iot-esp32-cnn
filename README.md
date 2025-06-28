@@ -53,11 +53,17 @@ ESP32 listens over UART and changes LED color based on emotion received
 
 Steps:
    1. Connect the ESP32 to your local network to enable signal transmission over Wi-Fi.
+      
    2.Install the Arduino IDE and select the ESP32 DevKit board from the board manager.
+   
    3.Upload the code to ESP32 via the Arduino IDE.
+   
    4.Run the Python script to start detecting emotions and sending the results to ESP32 through UART.
+   
    5.Verify signal transmission by observing the LED behavior on the breadboard.
+   
    6.Each LED color corresponds to a specific emotion, so ensure all LEDs function correctly.
+   
 🎯 Emotion-to-LED Mapping
 ```
   Emotion	LED Color
