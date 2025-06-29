@@ -5,6 +5,7 @@ CNN emotion detection with real-time LED indicator using ESP32
 
 This project combines image-based facial emotion detection using a Convolutional Neural Network (CNN) and an ESP32 microcontroller. The system detects a user's emotion from a live webcam feed and transmits the result to an ESP32 over serial communication (UART), which then lights up an RGB LED based on the detected emotion.
 
+Haarcascade.xml is used for face detection in this project. The detected faces are classified using a CNN algorithm, and the result is transmitted via an ESP32 microcontroller, which sends signals to a breadboard to control an LED indicator.
 
 ## 🧠 Features
 
